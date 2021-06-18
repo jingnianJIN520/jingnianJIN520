@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 /*背景颜色*/
-			.bg{background:url("mainimg.jpg")}
+			.bg{background:url("../img/mainimg.jpg")}
 		/*导航栏*/
 			ul {list-style-type:none;
 				margin:-5px;
